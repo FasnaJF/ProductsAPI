@@ -1,4 +1,4 @@
-How To Set up Products API Project (Time Estimate: 2:30 hours)
+How To Set up Products API Project (Time Spent Estimate: 2:30 hours)
 
 This project has been setup with docker for easy installation and configuration.
 
